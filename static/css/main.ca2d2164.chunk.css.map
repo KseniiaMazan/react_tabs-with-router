@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","Tabs.css","HomePage.css"],"names":[],"mappings":"AAAA,YACE,gBACF,CAEA,UACE,iBACF,CCNA,UACE,WACF,CCFA,YACE,gBACF","file":"main.ca2d2164.chunk.css","sourcesContent":[".navigation {\n  margin: 50px 20px;\n}\n\n.nav-item {\n  margin-right: 15px;\n}\n",".tab-text {\n  margin: 15px;\n}\n",".home-title {\n  margin-left: 15px;\n}\n"]}
